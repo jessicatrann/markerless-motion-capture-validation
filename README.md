@@ -26,4 +26,4 @@ MATLAB · Visual3D · Theia3D · motion capture · RMSD · biomechanics
 The underlying pediatric research recordings are not included. Share scripts or example data only with appropriate permission.
 
 ## My contribution
-Developed MATLAB analysis code, calculated joint-angle deviations, and presented findings at a biomedical engineering conference.
+Developed MATLAB analysis code, participated in data collection, calculated joint-angle deviations, and presented findings at a biomedical engineering conference.
