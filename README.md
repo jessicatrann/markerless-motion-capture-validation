@@ -23,7 +23,7 @@ plane reported hip deviations of hips **-3.3° (left)** and **3.8° (right)**, a
 MATLAB · Visual3D · Theia3D · motion capture · RMSD · biomechanics
 
 ## Data availability
-The underlying pediatric research recordings are not included. Share scripts or example data only with appropriate permission.
+The underlying pediatric research recordings are not included. 
 
 ## My contribution
 Developed MATLAB analysis code, participated in data collection, calculated joint-angle deviations, and presented findings at a biomedical engineering conference.
